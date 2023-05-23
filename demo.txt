@@ -1,1 +1,2 @@
-this is a file in myproject directory
+this is a file in myproject directory 
+this is the branch b1 file
